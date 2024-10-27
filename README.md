@@ -1,3 +1,11 @@
+<!--
+ * @Author: huangqj23 huangquanjin24@gmail.com
+ * @Date: 2024-10-27 14:59:43
+ * @LastEditors: huangqj23 huangquanjin24@gmail.com
+ * @LastEditTime: 2024-10-27 14:59:44
+ * @FilePath: /VisionMasterLab/README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 当然，这里有一段关于“VisionMasterSuite”库的介绍：
 
 ---
@@ -32,7 +40,7 @@ VisionMasterSuite 旨在简化复杂的视觉任务开发流程，通过模块�
 
 这段介绍涵盖了库的主要功能和特点，并提供了基本的使用和参与说明。你可以根据具体的实现和需求进行调整和扩展。
 
-# VisionMasterSuite 目录结构
+## VisionMasterSuite 目录结构
 
 - **VisionMasterSuite/**
   - `README.md`
